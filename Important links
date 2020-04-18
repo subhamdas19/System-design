@@ -1,0 +1,44 @@
+Active Active and Active PAssive
+https://www.jscape.com/blog/active-active-vs-active-passive-high-availability-cluster
+https://stackoverflow.com/questions/3736969/master-master-vs-master-slave-database-architecture
+
+
+Performance vs Scalability
+Performance is an indication of the responsiveness of a system to execute any action within a given time interval, while scalability is ability of a system either to handle increases in load without impact on performance or for the available resources to be readily increased.
+https://blog.professorbeekums.com/performance-vs-scalability/
+
+
+CAP Theorem
+https://www.youtube.com/watch?v=PyLMoN8kHwI
+https://medium.com/@ramkarnani24/designing-scalable-systems-part-1-60279fc312f1
+
+Proxy Sever
+https://www.youtube.com/watch?v=XhNQbuf-NTk&list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u&index=5
+https://www.varonis.com/blog/what-is-a-proxy-server/
+
+
+CDN
+https://www.youtube.com/watch?v=dzzPP87zUq4
+http://www.travelblogadvice.com/technical/the-differences-between-push-and-pull-cdns/
+
+
+Consistent Hashing
+https://medium.com/system-design-blog/consistent-hashing-b9134c8a9062
+https://www.youtube.com/watch?v=juxlRh4ZhoI
+
+
+
+Vertical vs Horizontal Scaling
+https://stackoverflow.com/questions/11707879/difference-between-scaling-horizontally-and-vertically-for-databases
+
+
+Reverse Proxy
+https://www.cloudflare.com/learning/cdn/glossary/reverse-proxy/
+
+Monolithic vs Microservices Architecture
+https://www.youtube.com/watch?v=srXdCa89H04
+https://articles.microservices.com/monolithic-vs-microservices-architecture-5c4848858f59
+https://www.n-ix.com/microservices-vs-monolith-which-architecture-best-choice-your-business/
+
+Active-Active vs. Active-Passive High-Availability Clustering
+https://www.jscape.com/blog/active-active-vs-active-passive-high-availability-cluster
